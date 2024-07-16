@@ -1,0 +1,2 @@
+#for mac os with apple chip
+docker run --name lumpini_test --add-host=host.docker.internal:host-gateway -it -d lumpini:1.0
